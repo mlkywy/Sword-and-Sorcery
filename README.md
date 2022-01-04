@@ -43,5 +43,5 @@ Future Improvements:
 Art created by [alshei](https://github.com/alshei), heavy code contribution by [0xKoichi](https://github.com/0xKoichi).
 
 **BG Music:** [Chris Collins / Chiptune Fantasy](https://indiemusicbox.com/downloads/chiptune-fantasy/) |
-**Player SFX:** [evilduckk  [Her Circle](https://evilduckk.itch.io/hel-circle-sfx-and-music) |
+**Player SFX:** [evilduckk  Hel Circle](https://evilduckk.itch.io/hel-circle-sfx-and-music) |
 **Button SFX:** [MATRIXXX_ Select_Granted_01.wav](https://freesound.org/people/MATRIXXX_/sounds/404151/)
